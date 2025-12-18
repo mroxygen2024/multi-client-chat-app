@@ -22,7 +22,7 @@ A simple multi-client chat application using Java TCP sockets. The server handle
 ## Project Structure
 
 ```
-ChatApp/
+multi-client-chat-app/
 ├── Server.java   # Chat server
 ├── Client.java   # Chat client
 └── README.md     # Documentation
