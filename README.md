@@ -52,6 +52,17 @@ ChatApp/
 5. Server relays messages to all other connected clients.
 6. All clients display the broadcast messages.
 
+## Clone and Setup
+
+Clone the repository and enter the project directory:
+
+```bash
+git clone https://github.com/mroxygen2024/multi-client-chat-app.git
+cd multi-client-chat-app
+```
+
+If you already have `Server.java` and `Client.java` locally in this workspace, you can skip cloning and use the compile/run steps below.
+
 ## How to Compile and Run
 
 1. Compile sources:
