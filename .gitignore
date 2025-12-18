@@ -1,0 +1,34 @@
+# Compiled Java class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Maven build directory
+/target/
+
+# Gradle build directory and cache
+/build/
+.gradle/
+
+# Log files
+*.log
+
+# IDE specific files and directories (common examples)
+.idea/             # IntelliJ IDEA
+.vscode/           # VS Code
+.settings/         # Eclipse
+.project           # Eclipse
+.classpath         # Eclipse
+nbproject/private/ # NetBeans
+*.swp              # Vim temporary files
+*~                 # Emacs temporary files
+
+# OS generated files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# Virtual Machine crash logs
+hs_err_pid*
