@@ -98,7 +98,7 @@ Messages sent by one client appear in other clients.
 
 ## Screenshots
 
-Place your screenshots in a `screenshots/` folder beside this README and use the paths below (replace the filenames to match your captures):
+Here are screenshots from a `screenshots/` folder:
 
 | View              | Image                                     |
 | ----------------- | ----------------------------------------- |
@@ -116,3 +116,7 @@ Place your screenshots in a `screenshots/` folder beside this README and use the
 ## Conclusion
 
 This project provides a concise example of a multi-client chat system built with Java TCP sockets, illustrating networking and concurrency fundamentals.
+
+## License 
+
+MIT
